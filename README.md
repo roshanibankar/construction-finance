@@ -1,2 +1,2 @@
 
-## construction finance for architectural real-estate geeks
+## construction finance for architectural geeks
