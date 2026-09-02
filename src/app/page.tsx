@@ -54,11 +54,11 @@ export default function ComingSoonPage(): JSX.Element {
         {/* Left Column: Copy + Form */}
         <div className={styles.leftColumn}>
           <h1 className={styles.title}>
-            Design with Form. <br />
-            <span className={styles.titleMuted}>Validate with Finance.</span>
+            Form follows Function. <br />
+            <span className={styles.titleMuted}>Function follows Finance.</span>
           </h1>
           <p className={styles.description}>
-            The interactive feasibility engine built for architects, developers and students. Master Cap Rates, LTV, IRR, and DCF analysis to make your designs financially sound.
+            The interactive feasibility engine built for architects, developers and students. Master Cap Rates, LTV, IRR and DCF analysis to make your constructions projects financially sound.
           </p>
 
           {!isSubmitted ? (
